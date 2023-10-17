@@ -1,8 +1,10 @@
 ### Hi there 👋
 Here are my projects (open sources), please check them out as you please:)
 
-<img src="i_OrderforUs/i_OrderforUs/Images/iOrderforUs_Mockup.PNG" />
-<img src="f1_Kit/f1_Kit/Images/f1Kit_Mockup.PNG" />
+![iOrderforUs_Mockup](https://github.com/Gin6x/Gin6x/assets/74748351/b3fbe190-39d0-4613-b842-65b48cf0abe5)
+![f1Kit_Mockup](https://github.com/Gin6x/Gin6x/assets/74748351/90676f20-4596-4043-b305-a27b7a55f536)
+
+
 <!--
 **Gin6x/Gin6x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
