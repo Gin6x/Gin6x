@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Here are my projects (open sources), please check them out as you please:)
 <!--
 **Gin6x/Gin6x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
