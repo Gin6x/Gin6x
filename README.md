@@ -1,8 +1,8 @@
 ### Hi there 👋
 Here are my projects (open sources), please check them out as you please:)
 
-<img src="i_OrderforUs/Images/iOrderforUs_Mockup.PNG" />
-<img src="f1_Kit/Images/f1Kit_Mockup.PNG" />
+<img src="i_OrderforUs/i_OrderforUs/Images/iOrderforUs_Mockup.PNG" />
+<img src="f1_Kit/f1_Kit/Images/f1Kit_Mockup.PNG" />
 <!--
 **Gin6x/Gin6x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
