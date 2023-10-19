@@ -1,5 +1,6 @@
 ### Hi there 👋
 Here are my projects (open sources), please check them out as you please :)
+And also my <a href="https://genechandev.com/">personal website</a> :D
 
 ## <a href="https://github.com/Gin6x/i_OrderforUs">i_OrderforUs</a>
 ![iOrderforUs_Mockup](https://github.com/Gin6x/Gin6x/assets/74748351/b3fbe190-39d0-4613-b842-65b48cf0abe5)
