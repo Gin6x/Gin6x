@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a self-taught iOS developer from Hong Kong.
-Here are my projects, please check them out as you please :)
+I am a self-taught iOS developer from Hong Kong. /n
+Here are my projects, please check them out as you please :) /n
 I am also having a training with Scala, Spark and Quantexa!
 
 And also my <a href="https://genechandev.com/">personal website</a> :D
