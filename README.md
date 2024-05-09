@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a Quantexa Data Engineering Consultant, also a self-taught iOS developer from Hong Kong. 
+
 Obviously if you intersted in F1, bouldering or gaming, please feel free to say hi :)
 
 Here are my projects, please check them out as you please :)
